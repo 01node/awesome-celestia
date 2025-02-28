@@ -1235,7 +1235,8 @@ Compilation of technical guides and resources, such as node guides, monitoring s
 * Peer: `eda6c9d514615893c77c379f29ce7668b575953d@celestia-mainnet-peer.01node.com:26005`
 
   Validator: [celestiavaloper1murrqgqahxevedty0nzqrn5hj434fvffxufxcl](https://celestia.explorers.guru/validator/celestiavaloper1murrqgqahxevedty0nzqrn5hj434fvffxufxcl) \
-  Bridge: `12D3KooWJGCU4X5LG8NANfudRZjAHjuCeNBYVBKGNaQYoAMVhnV6`
+  Bridge: `12D3KooWJGCU4X5LG8NANfudRZjAHjuCeNBYVBKGNaQYoAMVhnV6` \
+  Future bootstraper: `celestia-mainnet-boot.01node.com`
 
 
 #### Testnet:
@@ -1246,7 +1247,8 @@ Compilation of technical guides and resources, such as node guides, monitoring s
 * Peer:  `d468354f164a374f9560d6ad46572668020a222e@celestia-testnet-peer.01node.com:26656`
 
   Validator: [celestiavaloper12wtmpdzgssf0l03ajkvzxsqzlwfu2yn657e3dr](https://testnet.celestia.explorers.guru/validator/celestiavaloper12wtmpdzgssf0l03ajkvzxsqzlwfu2yn657e3dr) \
-  Bridge: `12D3KooWRQt7nS6ZCoHQRprQJnAeNST48yg7Cm3iHW1cb5QxfSb1`
+  Bridge: `12D3KooWRQt7nS6ZCoHQRprQJnAeNST48yg7Cm3iHW1cb5QxfSb1` \
+  Future bootstraper: `celestia-testnet-boot.01node.com` 
 
 ---
 
